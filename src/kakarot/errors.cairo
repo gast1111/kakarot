@@ -30,7 +30,6 @@ namespace Errors {
         dw 105;  // i
         dw 102;  // f
         dw 105;  // i
-        dw 99;  // c
         dw 97;  // a
         dw 116;  // t
         dw 105;  // i
